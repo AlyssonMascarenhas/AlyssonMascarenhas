@@ -1,7 +1,7 @@
 <h1 align = "justify"> Olá, eu sou o Alysson</h1>
 
 - 🔭 Desenvolvedor Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet</b></a>.
-- 🌱 Atualmente estudando Clean Code, Refactor, Clean Architecture e JEST.
+- 🌱 Atualmente estudando Software Architecture, Clean Code, Refactor, Clean Architecture e JEST.
 - 📌 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a>.
 - 🎓 Evolução constante!
 
