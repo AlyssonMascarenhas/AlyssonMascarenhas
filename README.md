@@ -1,14 +1,16 @@
 <h1 align = "justify"> Olá, eu sou o Alysson</h1>
 
 - 🔭 Desenvolvedor Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet</b></a>.
-- 🌱 Atualmente estudando Software Architecture, Clean Code, Refactor, Clean Architecture e JEST.
 - 📌 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a>.
+- 🌱 Atualmente estudando Software Architecture, Clean Code, Refactor, Clean Architecture e JEST.
 - 🎓 Evolução constante!
+
+[![@alyssonkeysson's Holopin board](https://holopin.me/alyssonkeysson)](https://holopin.io/@alyssonkeysson)
 
  <div>
   <a href="https://github.com/AlyssonMascarenhas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlyssonMascarenhas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonMascarenhas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=AlyssonMascarenhas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonMascarenhas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 💻 **Linguagens e Ferramentas**  
