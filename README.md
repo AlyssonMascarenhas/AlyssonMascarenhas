@@ -9,8 +9,8 @@
 
  <div>
   <a href="https://github.com/AlyssonMascarenhas">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=AlyssonMascarenhas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonMascarenhas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlyssonMascarenhas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlyssonMascarenhas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 💻 **Linguagens e Ferramentas**  
@@ -22,7 +22,9 @@
    <img align="center" alt="alysson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
     <img align="center" alt="alysson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="alysson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    
+    <img align="center" alt="alysson-JEST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg">
+    <img align="center" alt="alysson-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg">
+    <img align="center" alt="alysson-Bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original.svg">
   </div>  
 </div>
 
