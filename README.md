@@ -1,6 +1,6 @@
 <h1 align = "justify" title="No momento não estou aberto a propostas"> Olá, eu sou o Alysson</h1>
 
-- 🔭 Desenvolvedor Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet</b></a>.
+- 🔭 Desenvolvedor Frontend na <a href="https://cwi.com.br/"><b>CWI</b></a>.
 - 📌 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a>.
 - 🌱 Atualmente estudando Software Architecture, Clean Code, Refactor, Clean Architecture e JEST.
 - 🎓 Evolução constante!
